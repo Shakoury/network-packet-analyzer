@@ -1,0 +1,26 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Kotlin
+*.kotlin_module
+
+# Local properties
+local.properties
+
+# NDK
+.cxx/
+
+# Misc
+*.log
